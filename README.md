@@ -1,2 +1,2 @@
-# c-secondsem
+# C-SECONDSEM
 *DSA LAB PROGRAMS*
